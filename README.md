@@ -1,5 +1,3 @@
----
-
 # 📦 REPOSITORY DOCUMENTATION
 
 ## Sistem Pendukung Keputusan (SPK)
@@ -8,7 +6,6 @@
 
 **Metode: Weighted Product (WP)**
 
----
 
 ## 📌 Deskripsi Proyek
 
