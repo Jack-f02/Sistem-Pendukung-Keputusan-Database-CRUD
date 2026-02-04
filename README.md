@@ -265,10 +265,11 @@ if($username=="admin" && $password=="admin123"){
 ## 📸 Screenshot Aplikasi
 
 ### Halaman Login
-![Login](assets\img\Login.png)
+![Login](assets/img/login.png)
 
 ### Dashboard
-![Dashboard](assets\img\Dashboard.png)
+![Dashboard](assets/img/Dashboard.png)
 
 ### Hasil Perhitungan
-![Hasil](assets\img\Hasil.png)
+![Hasil](assets/img/Hasil.png)
+
