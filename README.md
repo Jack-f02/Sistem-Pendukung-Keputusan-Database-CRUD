@@ -119,6 +119,9 @@ CREATE TABLE penilaian (
 );
 
 ```
+---
+![Tabel relasi](assets/img/database.png)
+---
 
 ---
 
