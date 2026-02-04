@@ -265,7 +265,7 @@ if($username=="admin" && $password=="admin123"){
 ## 📸 Screenshot Aplikasi
 
 ### Halaman Login
-![Login](assets/img/login.png)
+![Login](assets/img/Login.png)
 
 ### Dashboard
 ![Dashboard](assets/img/Dashboard.png)
